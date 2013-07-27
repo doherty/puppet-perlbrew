@@ -1,16 +1,19 @@
 perlbrew
+========
 
-This is the perlbrew module.
+This class arranges for perlbrew to be installed in `/opt/perlbrew`.
+This doesn't install any perl binaries yet, it simply makes the
+perlbrew tool available to users on the machine. You could also
+have puppet use perlbrew to install some perl binaries.
 
 License
 -------
-
+Apache 2.0
 
 Contact
 -------
-
+Mike Doherty <mike@mikedoherty.ca>
 
 Support
 -------
-
-Please log tickets and issues at our [Projects site](http://projects.example.com)
+Please log any issues on [github](https://github.com/doherty/puppet-perlbrew).
