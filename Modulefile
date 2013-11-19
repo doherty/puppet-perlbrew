@@ -1,6 +1,6 @@
 name    'doherty-perlbrew'
-version '0.1.0'
-author 'doherty'
+version '0.2.0'
+author  'doherty'
 license 'Apache License, Version 2.0'
 summary 'Set up perlbrew, allowing users to manage their own perl binaries'
 description 'Sets up perlbrew globally, which allows users to manage
